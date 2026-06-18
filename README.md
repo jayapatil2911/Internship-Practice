@@ -1,24 +1,28 @@
-\## Full Name
+\## **Full Name**
 
-Jaya Patil
+&#x20; 
+
+&#x20;Jaya Patil
 
 
 
-\## Domain Name
+\## **Domain Name**
 
 Software Testing / QA
 
 
 
-\## Skill Set
+\## **Skill Set**
 
-\- Manual Testing
+\-Manual Testing
 
 \- SDLC
 
 \- STLC
 
 \- DLC
+
+\-Agile
 
 \- Core Java
 
@@ -30,13 +34,11 @@ Software Testing / QA
 
 \- Selenium
 
-\-
-
-\- 
 
 
 
-\## Career Goal
+
+\## **Career Goal**
 
 To become a QA Tester and build expertise in software testing and automation.
 
