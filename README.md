@@ -33,6 +33,18 @@ Software Testing / QA
 \- Automation Testing
 
 \- Selenium
+\- Java
+\- TestNG
+\- Maven
+\- Page Object Model
+\- Data-Driven Testing
+\- Explicit Wait
+\- WebDriverWait
+\- Actions Class
+\- JavaScriptExecutor
+\- Excel Test Data
+\- Apache POI
+\-TestNG DataProvider
 
 
 
