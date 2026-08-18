@@ -34,7 +34,7 @@ Software Testing / QA
 
 \- Selenium
 \-Java
-\-TestNG
+TestNG
 \-Maven
 \-Page Object Model
 \-Data-Driven Testing
